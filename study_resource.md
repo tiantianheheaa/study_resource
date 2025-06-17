@@ -11,4 +11,5 @@
  
 - 大模型框架，Transormers（Hugging Face）的使用教程
   - 项目：https://transformers.run/
-  - 代码：https://github.com/jsksxs360/How-to-use-Transformers
+    - 配套代码：https://github.com/jsksxs360/How-to-use-Transformers
+  - hugging face官方教程：https://huggingface.co/docs/transformers/zh/quicktour
