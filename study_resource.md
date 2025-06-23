@@ -10,7 +10,10 @@
   - **从零入门LLM**，注意力机制，GPT模型，微调等
  
 - 大模型框架，Transormers（Hugging Face）的使用教程
-  - 项目：https://transformers.run/
+  - 《如何使用Transformers》项目：https://transformers.run/
     - 配套代码：https://github.com/jsksxs360/How-to-use-Transformers
     - 内容：**NLP发展历程、NLP任务、Transformers库的使用**。
   - hugging face官方教程：https://huggingface.co/docs/transformers/zh/quicktour
+ 
+- Prompt方法简介
+  - https://xiaosheng.blog/2022/09/10/what-is-prompt
