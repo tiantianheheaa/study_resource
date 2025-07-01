@@ -17,3 +17,6 @@
  
 - Prompt方法简介
   - https://xiaosheng.blog/2022/09/10/what-is-prompt
+
+- 刷题&八股
+  - https://programmercarl.com/ 卡尔的网站，leetcode题目，计算机网络、操作系统等八股。  
