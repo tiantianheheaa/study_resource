@@ -8,6 +8,8 @@
 - https://github.com/datawhalechina/llms-from-scratch-cn/tree/main
   - 书籍、代码
   - **从零入门LLM**，注意力机制，GPT模型，微调等
+- datawhale 大模型系列
+  - happy llm: https://github.com/datawhalechina/happy-llm/tree/main  
  
 - 大模型框架，Transormers（Hugging Face）的使用教程
   - 《如何使用Transformers》项目：https://transformers.run/
