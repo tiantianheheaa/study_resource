@@ -1,6 +1,6 @@
 
 
-# 大模型
+## 大模型
 - https://tingsongyu.github.io/PyTorch-Tutorial-2nd/
   - 有书籍、配套代码
   - **pytorch实用教程第二版**。主要内容有**pytorch用法**、**NLP项目**、CV项目等
@@ -21,4 +21,10 @@
   - https://xiaosheng.blog/2022/09/10/what-is-prompt
 
 - 刷题&八股
-  - https://programmercarl.com/ 卡尔的网站，leetcode题目，计算机网络、操作系统等八股。  
+  - https://programmercarl.com/ 卡尔的网站，leetcode题目，计算机网络、操作系统等八股。
+ 
+
+## 强化学习
+- datawhale，《EasyRL》https://github.com/datawhalechina/easy-rl
+- 王树森，《深度强化学习》
+- 《强化学习的数学原理》
