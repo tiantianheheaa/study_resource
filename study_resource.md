@@ -34,3 +34,8 @@
 - datawhale，《EasyRL》https://github.com/datawhalechina/easy-rl
 - 王树森，《深度强化学习》
 - 《强化学习的数学原理》
+
+
+## 系列
+- datawhale 在线文档：https://datawhaler.feishu.cn/wiki/BPOHw1TqGidYHrkeJg7cqHiSnQc
+- datawhale github: https://github.com/datawhalechina
