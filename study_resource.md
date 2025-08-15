@@ -32,7 +32,7 @@
 
 ## 强化学习
 - datawhale，《EasyRL》https://github.com/datawhalechina/easy-rl
-- 王树森，《深度强化学习》
+- 王树森，《深度强化学习》，通俗易懂。
 - 《强化学习的数学原理》
 
 
