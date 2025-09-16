@@ -1,7 +1,7 @@
 
 
 ## 大模型
-- hugging face NLP教程
+- hugging face LLM教程
   - https://huggingface.co/learn/llm-course/zh-CN/chapter1/1
 
 - 《pytorch实用教程第二版》
