@@ -39,4 +39,4 @@
 ## 系列
 - datawhale 在线文档：https://datawhaler.feishu.cn/wiki/BPOHw1TqGidYHrkeJg7cqHiSnQc
 - datawhale github: https://github.com/datawhalechina
-- hugging face在线课程：https://huggingface.co/learn，包括大模型、Agent、深度强化学习等课程
+- hugging face在线课程：https://huggingface.co/learn    包括大模型、Agent、深度强化学习等课程
