@@ -23,8 +23,10 @@
     - 内容：**NLP发展历程、NLP任务、Transformers库的使用**。
   - hugging face官方教程：https://huggingface.co/docs/transformers/zh/quicktour
  
-- Prompt方法简介
+- Prompt方法
   - https://xiaosheng.blog/2022/09/10/what-is-prompt
+  - https://www.promptingguide.ai/zh
+  - 吴恩达课程：https://github.com/youcans/GPT-Prompt-Tutorial
 
 - 刷题&八股
   - https://programmercarl.com/ 卡尔的网站，leetcode题目，计算机网络、操作系统等八股。
