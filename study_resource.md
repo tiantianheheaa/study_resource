@@ -28,7 +28,7 @@
   - https://www.promptingguide.ai/zh
   - 吴恩达课程：https://github.com/youcans/GPT-Prompt-Tutorial
 
-- 刷题&八股
+## leetcode刷题&八股
   - https://programmercarl.com/ 卡尔的网站，leetcode题目，计算机网络、操作系统等八股。
  
 
